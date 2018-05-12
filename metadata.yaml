@@ -1,0 +1,43 @@
+_repo: The-Works-of-Christopher-Marlowe-Vol.-2--of-3-_42724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Christopher
+    aliases:
+    - Marlow, Christopher
+    - Marloe, Christopher
+    - Marlo, Christopher
+    birthdate: 1564
+    deathdate: 1593
+    gutenberg_agent_id: '410'
+    url: http://www.gutenberg.org/2009/agents/410
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Marlowe
+  editor:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Bullen, Arthur Henry
+    - Butler, A. H.
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+description: ''
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
+- !lcc 'PR'
+tableOfContents: The Jew of Malta -- Edward the Second -- The massacre at Paris --
+  The tragedy of Dido, Queen of Carthage.
+title: The Works of Christopher Marlowe, Vol. 2 (of 3)
+url: http://www.gutenberg.org/ebooks/42724
